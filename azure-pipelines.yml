@@ -38,3 +38,7 @@ steps:
     storage: 'angularstaticwebsite'
     ContainerName: '$web'
   displayName: 'publish to angularstaticwebsite'
+
+
+
+  
